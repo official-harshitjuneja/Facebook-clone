@@ -1,0 +1,134 @@
+body{
+    background-color: #f0f2f5;
+}
+main{
+    background-color: #f0f2f5;
+    height: 60vh;
+    /* position: relative; */
+}
+.h1{
+    color: rgb(0, 106, 255);
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 270px;
+    font-size: 60px;
+}
+.h2{
+    margin-left: 270px;
+    font-weight: 450;
+    font-size: 30px;
+}
+.div1{
+    height: 380px;
+    width: 380px;
+    background-color: #fff;
+    margin-left: 900px;
+    margin-top: -200px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px black;
+    /* box-shadow: 1px 2px 2px 2px black; */
+    /* box-shadow: h-offset v-offset blur spread color; */
+    box-shadow: 0 0 2px 2px #ccc;
+}
+.h3{
+    text-align: center;
+    margin-top: 15px;
+    color: rgb(0, 123, 255);
+    font-weight: 500;
+    font-size: 15px;
+}
+.h3:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.hr1{
+    width: 320px;
+    margin-left: 26px;
+    margin-top: 25px;
+}
+.h4{
+    margin-left: 935px;
+    font-size: 15px;
+    margin-top: 25px;
+    font-weight: 400;
+}
+.h4 span{
+    font-weight: bold;
+}
+.h4 span:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+footer{
+    background-color: #fff;
+    height: 26vh;
+}
+.ul1{
+    margin-left: 200px;
+}
+.ul1 li{
+    list-style-type: none;
+    float: left;
+    padding: 8px;
+    font-size: 12px;
+    color: gray;
+    margin-top: 20px;
+}
+.ul1 .li1:hover{
+    text-decoration: none;
+    cursor: text;
+}
+.ul1 li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.ul2 li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.ul3 li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.ul2{
+   float: left;
+   margin-left: 200px;
+}
+.ul2 li{
+    list-style-type: none;
+    float: left;
+    padding: 8px;
+    font-size: 12px;
+    color: gray;
+    margin-top: 20px;
+}
+.ul3{
+    float: left;
+    margin-left: 198px;
+ }
+.ul3 li{
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+    font-size: 12px;
+    color: gray;
+    margin-top: -30px;
+}
+.ul4{
+    float: left;
+    margin-left: -1002px;
+ }
+.ul4 li{
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+    font-size: 12px;
+    color: gray;
+    margin-top: -10px;
+}
+p{
+    font-size: 12px;
+    color: gray;
+    margin-top: 160px;
+    margin-left: 240px;
+}
